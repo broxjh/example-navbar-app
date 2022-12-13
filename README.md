@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Simple React app with bootstrap navbar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Skeleton React app with Bootstrap navbar component and a couple links
+
+Install dependencies:
+`npm install react-bootstrap bootstrap`
 
 ## Available Scripts
 
